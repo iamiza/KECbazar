@@ -1,7 +1,7 @@
 <div class="navigation_bar">
     <div id="logo">
-        <img id="kec_logo" src="../assets/KECLogo.png" alt="KEC_LOGO">
-        <img id="kec_bazar" src="../assets/KECBazar.png" alt="KEC_BAZAR">
+        <img id="kec_logo" src="../assets/images/KECLogo.png" alt="KEC_LOGO">
+        <img id="kec_bazar" src="../assets/images/KECBazar.png" alt="KEC_BAZAR">
     </div>
 
     <div id="categories">
@@ -21,14 +21,14 @@
     </div>
 
     <div id="user">
-        <img id="profile_icon" src="../assets/profile_icon.png" alt="user">
+        <img id="profile_icon" src="../assets/images/profile_icon.png" alt="user">
         <a href="login.php"><button id="login"><strong>Login</strong></button></a>
         <span>|</span>    
         <a href="login.php"><button id="signup"><strong>Sign Up</strong></button></a>
     </div>
 
     <div id="cart">
-        <img id="cart_icon" src="../assets/cart.png" alt="cart">
+        <img id="cart_icon" src="../assets/images/cart.png" alt="cart">
     </div>
 
 </div>
